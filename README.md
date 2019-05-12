@@ -1,4 +1,4 @@
-# tap-tracker
+# auth boilerplate
 
 > My riveting Nuxt.js project
 
